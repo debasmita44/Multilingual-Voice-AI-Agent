@@ -1,0 +1,24 @@
+# Flask Web Framework
+Flask==3.0.0
+Flask-CORS==4.0.0
+
+# Speech Recognition
+SpeechRecognition==3.10.0
+pyaudio==0.2.14
+
+# Text-to-Speech
+gtts==2.5.0
+
+# Language Detection
+langdetect==1.0.9
+
+# Audio Processing
+pydub==0.25.1
+
+# LLM
+requests==2.31.0
+
+# Utilities
+python-dotenv==1.0.0
+
+groq==0.4.2
